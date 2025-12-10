@@ -1,4 +1,4 @@
-$$\mathbb{A}^1$$-Invariance in Algebraic Geometry
+# $$\mathbb{A}^1$$-Invariance in Algebraic Geometry
 
 Our main goal in this seminar is to understand $$\mathbb{A}^1$$-homotopy of schemes and to compare the situation with that of topology. To this end, we will prove the analogues of two well-known results in topology:
 
