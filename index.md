@@ -1,3 +1,5 @@
+$$\mathbb{A}^1$$-Invariance in Algebraic Geometry
+
 Our main goal in this seminar is to understand $$\mathbb{A}^1$$-homotopy of schemes and to compare the situation with that of topology. To this end, we will prove the analogues of two well-known results in topology:
 
 1. If $$X$$ is a smooth affine scheme, then there is a bijection between rank $$n$$ vector bundles over $$X$$ and $$\mathbb{A}^1$$-homotopy classes of maps $$X\to \mathrm{Gr}_n$$.
